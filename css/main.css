@@ -5,5 +5,10 @@
 @viewport { width: device-width; scale: 1; }
 
 html {
+
+}
+
+body {
+  background-image: linear-gradient(rgba(73, 85, 98, .9) );
   
 }
